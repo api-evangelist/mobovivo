@@ -1,0 +1,57 @@
+{
+    "name": "Mobovivo",
+    "description": "<p>Mobovivo is a team of TV producers and talented software engineers that turn the TV industries biggest threat - mobile devices pulling audiences away from TV - into their greatest asset - advertising revenue. Mobovivo Second Screen and Social TV platform supports over 100 million interactions \/ minute for companies like ESPN, TWC and Intel enabling TV viewers to engage with shows across multiple screens.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/Mobovivo_Logo.png",
+    "tags": [
+        "agencies",
+        "have api",
+        "televisions"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/mobovivo\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Mobovivo",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/Mobovivo_Logo.png",
+            "humanURL": "http:\/\/www.mobovivo.com\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/mobovivo-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/mobovivo-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/blog.mobovivo.com\/"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/blog.mobovivo.com\/feeds\/posts\/default?alt=rss"
+        },
+        {
+            "type": "Documentation",
+            "url": "http:\/\/swagger-intel.mobovivo.com\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/mobovivo"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/www.mobovivo.com\/"
+        }
+    ]
+}
